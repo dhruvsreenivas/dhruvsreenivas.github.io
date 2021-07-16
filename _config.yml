@@ -20,8 +20,9 @@
 
 title: Dhruv Sreenivas
 email: ds844@cornell.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Dhruv Sreenivas is a first-year MS student in computer science at Cornell University, working with Prof. Wen Sun on imitation learning/offline reinforcement learning research.
+description: # this means to ignore newlines until "baseurl:"
+  Dhruv Sreenivas is a first-year MS student in computer science at Cornell University,
+  working with Prof. Wen Sun on imitation learning/offline reinforcement learning research.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dhruvsreenivas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dhruvsreenivas

@@ -20,11 +20,13 @@
 
 title: Dhruv Sreenivas
 email: ds844@cornell.edu
+tagline: M.S. student at Cornell University
 description: # this means to ignore newlines until "baseurl:"
   © 2021
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dhruvsreenivas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dhruvsreenivas
+author: Dhruv Sreenivas
 
 # Build settings
 theme: minima

@@ -3,18 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-
 ---
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 35%; text-align: center;">
         <span style="display: inline-block; height: 100%; vertical-align: middle;"></span>
-        <img src="/images/propic.jpg" alt="Dhruv Sreenivas" style="min-width: 125px; max-width: 400px; margin-left: auto; margin-right: auto; width: 60%; height: auto; vertical-align: middle;"/>
+        <img src="/images/propic.jpg" alt="Dhruv Sreenivas" style="min-width: 200px; max-width: 600px; margin-left: auto; margin-right: auto; width: 60%; height: auto; vertical-align: middle;"/>
         <br>
     </div>
     <div style="flex: 65%;">
-        I am a first-year CS MS student at <a href="https://www.cs.cornell.edu/">Cornell University</a> supervised by <a href="https://wensun.github.io/">Wen Sun</a>. I am also working concurrently on the LambdaZero project at <a href="https://mila.quebec/en/">Mila</a> I recently completed my undergraduate studies at Cornell with a BS in computer science and a minor in mathematics.
+        I am a first-year CS MS student at <a href="https://www.cs.cornell.edu/">Cornell University</a> supervised by <a href="https://wensun.github.io/">Wen Sun</a>. I am also working concurrently on the LambdaZero project at <a href="https://mila.quebec/en/">Mila</a>. I recently completed my undergraduate studies at Cornell, where I graduated with a BS in computer science and a minor in mathematics.
     </div> 
 </div>
 <br>
-Feel free to reach out to me at [ds844@cornell.edu](mailto:ds844@cornell.edu).
----
+My interests lie in scalable/offline reinforcement learning/imitation learning. Feel free to reach out to me at [ds844@cornell.edu](mailto:ds844@cornell.edu).

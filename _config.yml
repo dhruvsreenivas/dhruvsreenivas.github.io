@@ -20,8 +20,6 @@
 
 title: Dhruv Sreenivas
 email: ds844@cornell.edu
-description: >-
-  © 2021 Dhruv Sreenivas
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dhruvsreenivas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dhruvsreenivas

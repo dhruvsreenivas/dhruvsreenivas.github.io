@@ -18,4 +18,4 @@ layout: default
     </div> 
 </div>
 <br>
-Here is a <a href="https://dhruvsreenivas.github.io/documents/resume_jul21.pdf">current resume</a>. Feel free to reach out to me at [ds844@cornell.edu](mailto:ds844@cornell.edu).
+Here is a <a href="https://dhruvsreenivas.github.io/documents/resume_aug21.pdf">current resume</a>. Feel free to reach out to me at [ds844@cornell.edu](mailto:ds844@cornell.edu).

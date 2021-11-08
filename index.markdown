@@ -14,7 +14,7 @@ layout: default
         I am a first-year CS MS student at <a href="https://www.cs.cornell.edu/">Cornell University</a> advised by <a href="https://wensun.github.io/">Wen Sun</a>. I am also working concurrently on the LambdaZero project at <a href="https://mila.quebec/en/">Mila</a>. I recently completed my undergraduate studies at Cornell, where I graduated with a BS in computer science and a minor in mathematics.
         <br>
         <br>
-        My interests lie in scalable/offline reinforcement learning and imitation learning.
+        My primary research interests are in reinforcement learning and imitation learning.
     </div> 
 </div>
 <br>

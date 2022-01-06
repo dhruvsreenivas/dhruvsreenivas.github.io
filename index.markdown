@@ -11,7 +11,7 @@ layout: default
         <br>
     </div>
     <div style="flex: 65%;">
-        I am a first-year CS MS student at <a href="https://www.cs.cornell.edu/">Cornell University</a> advised by <a href="https://wensun.github.io/">Wen Sun</a>. I am also working concurrently on the LambdaZero project at <a href="https://mila.quebec/en/">Mila</a>. I recently completed my undergraduate studies at Cornell, where I graduated with a BS in computer science and a minor in mathematics.
+        I am a first-year CS MS student at <a href="https://www.cs.cornell.edu/">Cornell University</a> advised by <a href="https://wensun.github.io/">Wen Sun</a>. I am also working part-time on the LambdaZero project at <a href="https://mila.quebec/en/">Mila</a>. I recently completed my undergraduate studies at Cornell, where I graduated with a BS in computer science and a minor in mathematics.
         <br>
         <br>
         My primary research interests are in reinforcement learning and imitation learning.

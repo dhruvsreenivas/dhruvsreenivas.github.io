@@ -18,6 +18,6 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll -->
 
 - <strong><u>2021</u></strong>
-  - [Mitigating Covariate Shift in Imitation Learning via Offline Data Without Great Coverage](https://arxiv.org/abs/2106.03207)\
+  - <strong>[Mitigating Covariate Shift in Imitation Learning via Offline Data Without Great Coverage](https://arxiv.org/abs/2106.03207)</strong>\
   [Jonathan Chang](https://jdchang1.github.io/), [Masatoshi Uehara](https://masatoshiuehara.com/), **Dhruv Sreenivas**, [Rahul Kidambi](https://rahulkidambi.github.io/), [Wen Sun](https://wensun.github.io/)\
   <i>Advances in Neural Information Processing Systems (NeurIPS) 2021</i>.
